@@ -1,0 +1,355 @@
+body{background-color: black; overflow-y: hidden; overflow-x: hidden;
+    font-family: 'Ranchers', cursive;}
+p{font-size: 20vW; display: inline-block; position: relative;}
+
+.logo{animation: logo;
+      animation-duration: 1.2s;
+      animation-iteration-count:1;
+      animation-direction: normal;
+      animation-fill-mode: both;
+      animation-delay: 2.3s;}
+
+.p{animation: p;
+      animation-duration: 2s;
+      animation-iteration-count:1;
+      animation-direction: normal;
+      animation-fill-mode: both;
+      animation-delay: 1.6s;}
+
+.c1{width: 5%; height: 10%; border-radius: 50%; background:#f2ff73;
+	  position: absolute;
+    animation: c1;
+    animation-duration: 1.2s;
+    animation-iteration-count:1;
+    animation-direction: normal;
+    animation-fill-mode: both;}
+
+.c2{width: 5%; height: 10%; border-radius: 50%; background:#5fbeff;
+   position: absolute;
+         animation: c2;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.03s;}
+
+.c3{width: 5%; height: 10%; border-radius: 50%; background:#c199ff;
+         position: absolute;
+         animation: c3;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.06s;}
+
+.c4{width: 5%; height: 10%; border-radius: 50%; background:#6cd86c;
+         position: absolute;
+         animation: c4;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.09s;}
+
+.c5{width: 5%; height: 10%; border-radius: 50%; background:#ff675f;
+         position: absolute;
+         animation: c5;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.12s;}
+
+.c6{width: 5%; height: 10%; border-radius: 50%; background:#5fbeff;
+         position: absolute;
+         animation: c6;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.15s;}
+
+.c7{width: 5%; height: 10%; border-radius: 50%; background:#c199ff;
+         position: absolute;
+         animation: c7;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.18s;}
+
+.c8{width: 5%; height: 10%; border-radius: 50%; background:#6cd86c;
+         position: absolute;
+         animation: c8;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.21s;}
+
+.c9{width: 5%; height: 10%; border-radius: 50%; background:#f2ff73;
+         position: absolute;
+         animation: c9;
+         animation-duration: 1.2s;
+         animation-iteration-count:1;
+         animation-direction: normal;
+         animation-fill-mode: both;
+         animation-delay: 0.24s;}
+
+.p1{margin-left: 4%;
+    animation: p1;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.3s;}
+
+.p2{animation: p2;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.35s;}
+
+.p3{animation: p3;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.4s;}
+
+.p4{animation: p4;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.45s;}
+
+.p5{animation: p5;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.5s;}
+
+.p6{animation: p6;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.55s;}
+
+.p7{animation: p7;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.6s;}
+
+.p8{animation: p8;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.65s;}
+
+.p9{animation: p9;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-delay: 0.7s;}
+
+.circle1{width: 4%; height: 7%; border-radius: 50%; 
+       background-color: #f2ff73; position: relative;
+       filter: blur(29px);
+       animation: circle1;
+         animation-duration: 7s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle2{width: 4%; height: 12%; border-radius: 50%; 
+       background-color: #5fbeff; position: relative;
+       filter: blur(40px);
+       animation: circle2;
+         animation-duration: 4s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle3{width: 5%; height: 8%; border-radius: 50%; 
+       background-color: #5fbeff; position: relative;
+       filter: blur(30px);
+       animation: circle3;
+         animation-duration: 7s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle4{width: 4%; height: 7%; border-radius: 50%; 
+       background-color: #6cd86c; position: relative;
+       filter: blur(30px);
+       animation: circle4;
+         animation-duration: 5s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle5{width: 4%; height: 7%; border-radius: 50%; 
+       background-color: #ff675f; position: relative;
+       filter: blur(30px);
+       animation: circle5;
+         animation-duration: 3s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle6{width: 5%; height: 9%; border-radius: 50%; 
+       background-color: #c199ff; position: relative;
+       filter: blur(30px);
+       animation: circle6;
+         animation-duration: 3s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle7{width: 4%; height: 7%; border-radius: 50%; 
+       background-color: #c199ff; position: relative;
+       filter: blur(30px);
+       animation: circle7;
+         animation-duration: 3s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+.circle8{width: 5%; height: 7%; border-radius: 50%; 
+       background-color:#95FEF3; position: relative;
+       filter: blur(30px);
+       animation: circle8;
+         animation-duration: 4s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;}
+
+@keyframes circle1
+           {0%{left: 6%; top: 63%; opacity: 0.9}
+           100%{left: 6%; top: 67%; opacity: 0.6}}
+
+@keyframes circle2
+           {0%{left: 16%; top: -7%; opacity: 0.8}
+           100%{left: 16%; top: 3%; opacity: 1}}
+
+@keyframes circle3
+           {0%{left: 37%; top: 67%; opacity: 0.7}
+           100%{left: 37%; top: 58%; opacity: 0.5}}
+
+@keyframes circle4
+           {0%{left: 80%; top: 47%; opacity: 0.5}
+           100%{left: 80%; top: 37%; opacity: 0.8}}
+
+@keyframes circle5
+           {0%{left: 92%; top: 21%; opacity: 0.9}
+           100%{left: 92%; top: 14%; opacity: 0.6}}
+
+@keyframes circle6
+           {0%{left: 64.5%; top: -40%; opacity: 0.7}
+           100%{left: 64.5%; top: -26%; opacity: 0.9}}
+
+@keyframes circle7
+           {0%{left: 26%; top: 0%; opacity: 0.5}
+           100%{left: 26%; top: 0%; opacity: 1}}
+
+@keyframes circle8
+           {0%{left: 57%; top: 10%; opacity: 0.5}
+           100%{left: 57%; top: 0%; opacity: 0.8}}
+
+@keyframes c1
+           {0%{top: 100%; left: 5%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 5%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 5%; animation-timing-function: ease-out;}}
+
+@keyframes c2
+           {0%{top: 100%; left: 14%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 14%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 14%; animation-timing-function: ease-out;}}
+
+@keyframes c3
+           {0%{top: 100%; left: 25%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 25%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 25%; animation-timing-function: ease-out;}}
+
+@keyframes c4
+           {0%{top: 100%; left: 33.4%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 33.4%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 33.4%; animation-timing-function: ease-out;}}
+
+@keyframes c5
+           {0%{top: 100%; left: 42.4%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 42.4%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 42.4%; animation-timing-function: ease-out;}}
+
+@keyframes c6
+           {0%{top: 100%; left: 54.1%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 54.1%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 54.1%; animation-timing-function: ease-out;}}
+
+@keyframes c7
+           {0%{top: 100%; left: 66.5%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 66.5%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 66.5%; animation-timing-function: ease-out;}}
+
+@keyframes c8
+           {0%{top: 100%; left: 78.7%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 78.7%; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 78.7%; animation-timing-function: ease-out;}}
+
+@keyframes c9
+           {0%{top: 100%; left: 89%; animation-timing-function: ease-out;}
+           35%{top: 42%; left: 89; animation-timing-function: ease-in;}
+           100%{top: 100%; left: 89%; animation-timing-function: ease-out;}}
+
+@keyframes p1
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p2
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p3
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p4
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p5
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p6
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p7
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p8
+           {0%{top: 4%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes p9
+           {0%{top: 10%;opacity: 0%}
+           15%{top: -2%;}
+           100%{top: 0%;opacity: 100%}}
+
+@keyframes logo
+           {0%{opacity: 0%}
+           100%{opacity: 100%}}
+
+@keyframes p
+           {0%{opacity: 0%}
+           100%{opacity: 100%}}
